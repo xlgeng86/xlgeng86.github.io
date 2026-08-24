@@ -15,7 +15,7 @@ author_profile: true
 .small_font ol li {
   text-align: justify;
   text-align-last: left;
-  font-size: 0.85rem;
+  font-size: 0.6rem;
 }
 </style>
 

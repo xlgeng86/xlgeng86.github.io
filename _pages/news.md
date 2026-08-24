@@ -17,7 +17,8 @@ author_profile: true
 
 ### Aug. 2026
 ***
-Invited presentation, *ICMMC 2026*.<br>
+Invited presentation<br>
+*ICMMC 2026*.<br>
 <img src="/images/photos/icmmc2026_photo.jpeg" alt="photo" width="400"/>
 
 ### Jul. 2026

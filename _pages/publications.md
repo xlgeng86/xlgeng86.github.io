@@ -15,7 +15,7 @@ author_profile: true
 .small_font ol li {
   text-align: justify;
   text-align-last: left;
-  font-size: 0.6rem;
+  font-size: 0.7rem;
 }
 </style>
 
@@ -52,10 +52,10 @@ Conference Papers
 Patents
 ------
 <div class="small_font" markdown="1">
-1. 中国发明专利，一种射频功率检测器芯片版图结构及射频功率检测器芯片，CN 115 621 278B，2026.
-1. 中国发明专利，一种低噪声毫米波小数分频综合器锁相环结构，CN 115 001 489B，2025.
-1. 美国发明专利，LOW-NOISE MILLIMETER-WAVE FRACTIONAL-N FREQUENCY SYNTHESIZER，US 121 492 54B2，2024.
-1. 中国发明专利，基于时间误差放大器的低噪声毫米波锁相环频率综合器，CN 113 437 967B，2023.
-1. 中国发明专利，一种应用于锁相环频率综合器的高速宽带除法链，CN 109 257 043B，2021.
+1. 中国发明专利，一种射频功率检测器芯片版图结构及射频功率检测器芯片，CN115621278B，2026.
+1. 中国发明专利，一种低噪声毫米波小数分频综合器锁相环结构，CN115001489B，2025.
+1. 美国发明专利，LOW-NOISE MILLIMETER-WAVE FRACTIONAL-N FREQUENCY SYNTHESIZER，US12149254B2，2024.
+1. 中国发明专利，基于时间误差放大器的低噪声毫米波锁相环频率综合器，CN113437967B，2023.
+1. 中国发明专利，一种应用于锁相环频率综合器的高速宽带除法链，CN109257043B，2021.
 </div>
 

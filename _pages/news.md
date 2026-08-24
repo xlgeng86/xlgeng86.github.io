@@ -5,6 +5,7 @@ title: "News"
 author_profile: true
 ---
 
+<style>
 .page__content ul li {
   text-align: justify;
   text-align-last: left;

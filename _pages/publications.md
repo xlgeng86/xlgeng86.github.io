@@ -20,7 +20,9 @@ author_profile: true
 </style>
 
 {% if site.author.googlescholar %}
-<div class="wordwrap"> You can also find my articles on <a href="{{ site.author.googlescholar }}"> Google Scholar </a> website.</div>
+<div class="wordwrap">
+You can also find my articles on <a href="{{ site.author.googlescholar }}"> Google Scholar </a> website.
+</div>
 {% endif %}
 
 

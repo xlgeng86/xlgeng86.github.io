@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <style>
-.page__content ul li {
+.page__content p{
   text-align: justify;
   text-align-last: left;
   font-size: 1rem;

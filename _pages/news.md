@@ -19,4 +19,4 @@ author_profile: true
 - Apr. 2026, invited to serve as a TPC member of *ICICM 2026*.
 - Apr. 2026, invited to serve as a TPC member of *ICMMC 2026*.
 - Mar. 2026, invited presentation at *ICAC 2026*.<br>
-<img src="images/photos/icmmc2026.jpg" alt="ICMMC 2026" width="700"/><br>
+<img src="/images/photos/icac2026_photo.jpeg" alt="ICMMC 2026" width="700"/><br>

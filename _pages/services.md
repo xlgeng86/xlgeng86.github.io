@@ -13,9 +13,14 @@ author_profile: true
 }
 </style>
 
-- TPC Member on IEEE 2026 The 11th International Conference on Integrated Circuits and Microsystems (*ICICM 2026*).
-- TPC member on IEEE 2026 International Conference on Microwave and Millimeter Wave Technology (*ICMMT 2026*).
-- Reviewer of IEEE Journal of Solid‑State Circuits (*JSSC*).
-- Reviewer of IEEE Transactions on Microwave Theory and Techniques (*TMTT*).
-- Reviewer of IEEE Transactions on Circuits and Systems I: Regular Papers (*TCAS-I*).
-- Reviewer of Microelectronics Journal (*MEJ*).
+TPC Member
+------
+- IEEE 2026 The 11th International Conference on Integrated Circuits and Microsystems (*ICICM 2026*).
+- IEEE 2026 International Conference on Microwave and Millimeter Wave Technology (*ICMMT 2026*).
+
+Reviewer
+------
+- IEEE Journal of Solid‑State Circuits (*JSSC*).
+- IEEE Transactions on Microwave Theory and Techniques (*TMTT*).
+- IEEE Transactions on Circuits and Systems I: Regular Papers (*TCAS-I*).
+- Microelectronics Journal (*MEJ*).

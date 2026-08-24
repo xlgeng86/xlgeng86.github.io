@@ -17,29 +17,28 @@ author_profile: true
 
 ### Aug. 2026
 ***
-Invited presentation<br>
-*ICMMC 2026*.<br>
+Invited presentation at <a href="{{ https://www.myconf.com.cn/ICMMC2026/ }}"> IEEE ICMMC 2026 </a>.<br>
 <img src="/images/photos/icmmc2026_photo.jpeg" alt="photo" width="400"/>
 
 ### Jul. 2026
 ***
-Invited presentation, *第五届海思混合信号峰会*<br>
+Invited presentation at 第五届海思混合信号峰会.<br>
 <img src="/images/photos/hwJul_photo.jpeg" alt="photo" width="400"/>
 
 ### Jun. 2026
 ***
-Invited presentation, *电⼦科⼤-华为滤波器及电路技术联合实验室技术委员会*.<br>
+Invited presentation at 电⼦科⼤-华为滤波器及电路技术联合实验室技术委员会.<br>
 <img src="/images/photos/hwJun_photo.jpeg" alt="photo" width="400"/>
 
 ### Apr. 2026
 ***
-Join Technical Program Committee of *ICICM 2026*.
+Join Technical Program Committee of <a href="{{ https://www.icicm.net/chinese.html }}"> IEEE ICICM 2026 </a>.
 
 ### Apr. 2026
 ***
-Join Technical Program Committee of *ICMMC 2026*.
+Join Technical Program Committee of <a href="{{ https://www.myconf.com.cn/ICMMC2026/ }}"> IEEE ICMMC 2026 </a>.
 
 ### Mar. 2026
 ***
-Invited presentation, *ICAC 2026*.<br>
+Invited presentation at <a href="{{ https://icac2026.com }}"> ICAC 2026 </a>.<br>
 <img src="/images/photos/icac2026_photo.jpeg" alt="photo" width="400"/>

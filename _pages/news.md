@@ -13,6 +13,8 @@ author_profile: true
 }
 </style>
 
+## Raw picture size - 16：9 and 700 pixel width
+
 - Aug. 2026, invited presentation at *ICMMC 2026*.<br>
 <img src="/images/photos/icmmc2026_photo.jpeg" alt="photo" width="400"/><br>
 - Jul. 2026, invited presentation at 第五届混合信号峰会 of *Huawei*.<br>

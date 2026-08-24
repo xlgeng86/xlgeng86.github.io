@@ -51,7 +51,7 @@ Conference Papers
 
 Patents
 ------
-<div class="small_font">
+<div class="small_font" markdown="1">
 1. 中国发明专利，一种射频功率检测器芯片版图结构及射频功率检测器芯片，CN 115 621 278B，2026.
 1. 中国发明专利，一种低噪声毫米波小数分频综合器锁相环结构，CN 115 001 489B，2025.
 1. 美国发明专利，LOW-NOISE MILLIMETER-WAVE FRACTIONAL-N FREQUENCY SYNTHESIZER，US 121 492 54B2，2024.

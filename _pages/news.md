@@ -15,8 +15,8 @@ author_profile: true
 
 <!-- Raw picture size - 16：9 and 700 pixel width -->
 
-### Aug. 2026
-***
+Aug. 2026
+------
 Invited presentation at <a href="{{ https://www.myconf.com.cn/ICMMC2026/ }}"> IEEE ICMMC 2026 </a>.<br>
 <img src="/images/photos/icmmc2026_photo.jpeg" alt="photo" width="400"/>
 
@@ -40,5 +40,5 @@ Join Technical Program Committee of <a href="{{ https://www.myconf.com.cn/ICMMC2
 
 ### Mar. 2026
 ***
-Invited presentation at <a href="{{ https://icac2026.com }}"> ICAC 2026 </a>.<br>
+Invited presentation at <a href="{{ https://icacworkshop.cn }}"> ICAC 2026 </a>.<br>
 <img src="/images/photos/icac2026_photo.jpeg" alt="photo" width="400"/>

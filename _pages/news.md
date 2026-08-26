@@ -17,7 +17,8 @@ author_profile: true
 
 Aug. 2026
 ------
-Be awarded with the Youth Science Funding Project of NSFC
+Be awarded with the Youth Science Funding Project of <a href="https://www.nsfc.gov.cn
+"> NSFC </a>.<br>
 <img src="/images/photos/NSFC_YouthFungding.png" alt="photo" width="400"/>
 
 Aug. 2026

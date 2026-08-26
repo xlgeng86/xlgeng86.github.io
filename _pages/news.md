@@ -48,3 +48,8 @@ Mar. 2026
 ------
 Invited presentation at <a href="https://icacworkshop.cn" target="_blank" rel="noopener noreferrer"> ICAC 2026 </a>.<br>
 <img src="/images/photos/icac2026_photo.jpeg" alt="photo" width="400"/>
+
+Mar. 2026
+------
+Join UESTC as a faculty member.
+<img src="/images/photos/UESTC_logo.png" alt="photo" width="400"/>

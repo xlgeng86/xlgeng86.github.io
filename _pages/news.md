@@ -17,6 +17,11 @@ author_profile: true
 
 Aug. 2026
 ------
+Be awarded with the Youth Science Funding Project of NSFC
+<img src="/images/photos/NSFC_YouthFungding.png" alt="photo" width="400"/>
+
+Aug. 2026
+------
 Invited presentation at <a href="https://www.myconf.com.cn/ICMMC2026/"> IEEE ICMMC 2026 </a>.<br>
 <img src="/images/photos/icmmc2026_photo.jpeg" alt="photo" width="400"/>
 

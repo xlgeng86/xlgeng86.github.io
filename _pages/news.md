@@ -18,12 +18,12 @@ author_profile: true
 Aug. 2026
 ------
 Be awarded with the Youth Science Funding Project of <a href="https://www.nsfc.gov.cn
-"> NSFC </a>.<br>
+" target="_blank" rel="noopener noreferrer"> NSFC </a>.<br>
 <img src="/images/photos/NSFC_YouthFungding.png" alt="photo" width="400"/>
 
 Aug. 2026
 ------
-Invited presentation at <a href="https://www.myconf.com.cn/ICMMC2026/"> IEEE ICMMC 2026 </a>.<br>
+Invited presentation at <a href="https://www.myconf.com.cn/ICMMC2026/" target="_blank" rel="noopener noreferrer"> IEEE ICMMC 2026 </a>.<br>
 <img src="/images/photos/icmmc2026_photo.jpeg" alt="photo" width="400"/>
 
 Jul. 2026
@@ -38,13 +38,13 @@ Invited presentation at 电⼦科⼤-华为滤波器及电路技术联合实验�
 
 Apr. 2026
 ------
-Join Technical Program Committee of <a href="https://www.icicm.net/chinese.html"> IEEE ICICM 2026 </a>.
+Join Technical Program Committee of <a href="https://www.icicm.net/chinese.html" target="_blank" rel="noopener noreferrer"> IEEE ICICM 2026 </a>.
 
 Apr. 2026
 ------
-Join Technical Program Committee of <a href="https://www.myconf.com.cn/ICMMC2026/"> IEEE ICMMC 2026 </a>.
+Join Technical Program Committee of <a href="https://www.myconf.com.cn/ICMMC2026/" target="_blank" rel="noopener noreferrer"> IEEE ICMMC 2026 </a>.
 
 Mar. 2026
 ------
-Invited presentation at <a href="https://icacworkshop.cn"> ICAC 2026 </a>.<br>
+Invited presentation at <a href="https://icacworkshop.cn" target="_blank" rel="noopener noreferrer"> ICAC 2026 </a>.<br>
 <img src="/images/photos/icac2026_photo.jpeg" alt="photo" width="400"/>

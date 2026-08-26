@@ -21,7 +21,7 @@ author_profile: true
 
 {% if site.author.googlescholar %}
 <div class="wordwrap">
-You can also find my articles on <a href="{{ site.author.googlescholar }}"> Google Scholar </a> website.
+You can also find my articles on <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener noreferrer"> Google Scholar </a> website.
 </div>
 {% endif %}
 

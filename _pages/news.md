@@ -51,5 +51,5 @@ Invited presentation at <a href="https://icacworkshop.cn" target="_blank" rel="n
 
 Mar. 2026
 ------
-Join UESTC as a faculty member.
+Join UESTC as a faculty member.<br>
 <img src="/images/photos/UESTC_logo.png" alt="photo" width="400"/>

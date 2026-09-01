@@ -13,10 +13,10 @@ author_profile: true
 }
 </style>
 
-Served as supervisor to win the awards below.
+Served as supervisor to be awarded with...
 
 ### 2026年度
 ***
-- “华为杯”第九届中国研究生创“芯”大赛*全国二等奖*.<br>
+- “华为杯”第九届中国研究生创“芯”大赛**全国二等奖**.<br>
 - 第十届（2026）全国大学生集成电路创新创业大赛“青软晶尊”杯西南赛区三等奖.<br>
 - 第十届（2026）全国大学生集成电路创新创业大赛“IEEE”杯西南赛区三等奖.<br>

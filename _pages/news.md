@@ -18,8 +18,8 @@ author_profile: true
 Oct. 2026
 ------
 Serve as Track Chair and be awarded with Best Reviewer of <a href="https://www.icicm.net/chinese.html" target="_blank" rel="noopener noreferrer"> ICICM 2026 </a>.<br>
-<img src="/images/photos/Chair-2026-ICICM.jpeg" alt="photo" width="200"/>
-<img src="/images/photos/BestReviewer-2026-ICICM.jpeg" alt="photo" width="200"/>
+<img src="/images/photos/Chair-2026-ICICM.jpg" alt="photo" width="200"/>
+<img src="/images/photos/BestReviewer-2026-ICICM.jpg" alt="photo" width="200"/>
 
 Aug. 2026
 ------

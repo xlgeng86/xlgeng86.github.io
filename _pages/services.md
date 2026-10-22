@@ -23,4 +23,6 @@ Reviewer
 - IEEE Journal of Solid‑State Circuits (*JSSC*).
 - IEEE Transactions on Microwave Theory and Techniques (*TMTT*).
 - IEEE Transactions on Circuits and Systems I: Regular Papers (*TCAS-I*).
+- IEEE Transactions on Circuits and Systems II: Express Brief (*TCAS-II*).
 - Microelectronics Journal (*MEJ*).
+- 2026 The 11th International Conference on Integrated Circuits and Microsystems (*ICICM 2026*)

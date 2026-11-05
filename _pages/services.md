@@ -25,4 +25,5 @@ Reviewer
 - IEEE Transactions on Circuits and Systems I: Regular Papers (*TCAS-I*).
 - IEEE Transactions on Circuits and Systems II: Express Brief (*TCAS-II*).
 - Microelectronics Journal (*MEJ*).
-- IEEE 2026 The 11th International Conference on Integrated Circuits and Microsystems (*ICICM 2026*)
+- 2026 IEEE International Conference on Integrated Circuits and Microsystems (*ICICM 2026*)
+- 2027 IEEE International Symposium on Circuits and Systems （*ISCAS 2027*）
